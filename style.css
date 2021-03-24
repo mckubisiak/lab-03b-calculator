@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(73, 73, 73);
+    color: rgb(248, 235, 198);
+    text-align: center; 
+}
+span {
+    padding: 0px 15px; 
+    border-radius: 1rem;
+    border: 1px solid black;
+}
+.topspace {
+    line-height: 3  00%;
+}
+header {
+    color: rgb(248, 235, 198);
+    font-size: 2rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+button {
+    border-radius: 1rem;
+}
